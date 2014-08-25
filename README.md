@@ -10,7 +10,7 @@ src/java
 
 Groovy Source Code
 -------------------
-grails-app/controller
+grails-app/controllers
 
 HTML Source Code
 ----------------
