@@ -14,4 +14,4 @@ grails-app/controller
 
 HTML Source Code
 ----------------
-views
+grails-app/views/stocks
